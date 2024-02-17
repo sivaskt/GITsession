@@ -9,6 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AllCheckBoxes
 {
+	//sai
 //	@Test 
 //	public void allCheckBoxes()
 	public static void main(String[] args) 
